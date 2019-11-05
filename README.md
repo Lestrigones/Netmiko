@@ -6,7 +6,7 @@
 
 
 # Netmiko
-Script sencillo con netmiko conexion SSH para cisco, dos maneras diferentes de conectarse. 
+Script sencillo con netmiko conexión SSH para cisco, dos maneras diferentes de conectarse. 
 
-### Installation
+### Instalación
 pip install netmiko
